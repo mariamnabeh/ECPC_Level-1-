@@ -14,6 +14,7 @@
 
 #### Binary search (English):
 #### https://youtu.be/GU7DpgHINWQ?si=kKjtWjTMixw21j6r
+
 #### Binary search (Arabic):
 #### https://youtu.be/mGvus1Q_J4Q?si=9jdfz87ZAdORGerH
 #### https://youtu.be/qxhfkoDGGZc?si=rze6Skun2XhXLU5J
