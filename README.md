@@ -3,6 +3,8 @@
 
 #### Time and Space Complexity Analysis (Arabic):
 #### https://youtu.be/nrSVRPYy76c?si=2JwUwHMhpDM8RXwR
+#### Time and Space Complexity Analysis(English):
+#### https://youtu.be/A03oI0znAoc?si=bAqXBBNW5fDVRT7Z
 
 #### Pointers&& References (English):
 #### https://youtu.be/RGYGiLUAQ3c?si=_3LeDetv426DYXL0
