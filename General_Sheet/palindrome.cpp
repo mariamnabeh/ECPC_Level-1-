@@ -27,15 +27,20 @@ Palindrome is usually defined on strings because
 
 Let's Start solve this problem!
 */
+ int t;
+    cin >> t;
+    while(t--) {
+        int n;
+        cin >> n;
+        string s;
+        cin >> s;
+        if(n == 1) cout << "YES\n";
+        else if(n == 2) {
+            if(s[0] != s[1]) cout << "YES\n";
+            else cout << "NO\n";
+        } else cout << "NO\n";
+    }
 
-string s;
- cin >> s;
-
-if (s.length() == 1)
- cout << "YES";
-else
- cout << "NO";
- 
 /* Why?
 Because there is no binary string of length greater than 1 
 that does not contain a palindrome. 
