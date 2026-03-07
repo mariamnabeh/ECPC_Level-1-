@@ -13,17 +13,17 @@ typedef long long ll;
 typedef long double ld;
 void solve()
 {
-    ll n, k;
+    ll n, k; // n= num of Machines ,k=num of products
     cin >> n >> k;
 
-    vector<ll> arr(n);
+    vector<ll> arr(n);// time every machine will take
     for(int i = 0; i < n; i++){
         cin >> arr[i];
     }
 
     ll l = 1, r = 1e18, ans = 0;
 
-    while(l <= r){
+    while(l <= r){// allways r bigger untill r=-1 , it means the end of r
 
         ll mid = l + (r - l) / 2;
 
