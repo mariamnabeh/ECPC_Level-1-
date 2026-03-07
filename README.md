@@ -8,11 +8,6 @@
 #### Time and Space Complexity Analysis(English):
 #### https://youtu.be/A03oI0znAoc?si=bAqXBBNW5fDVRT7Z
 
-#### Prefix Sum: (English)
-#### https://youtu.be/xbYr9JOC2Lk?si=2C-pwQfWFceMVWNZ
-#### Prefix Sum: (Arabic)
-#### https://www.youtube.com/live/hqOqr6vFPp8?si=3eB3bb-vM4UhMEzB
-
 #### Pointers&& References (English):
 #### https://youtu.be/RGYGiLUAQ3c?si=_3LeDetv426DYXL0
 #### https://youtu.be/jUbOcBkdMF0?si=G429xXJhrGEc34Dd
