@@ -10,7 +10,7 @@
 
 #### Prefix Sum: (English)
 #### https://youtu.be/xbYr9JOC2Lk?si=2C-pwQfWFceMVWNZ
-#### refix Sum: (Arabic)
+#### Prefix Sum: (Arabic)
 #### https://www.youtube.com/live/hqOqr6vFPp8?si=3eB3bb-vM4UhMEzB
 
 #### Pointers&& References (English):
