@@ -24,6 +24,11 @@
 #### Prefix Sum: (Arabic)
 #### https://www.youtube.com/live/hqOqr6vFPp8?si=3eB3bb-vM4UhMEzB
 
+#### 2D-Prefix Sum:(Arabic)
+#### https://youtu.be/LFpNPc2Y9as 
+#### 2D-Prefix Sum: (Ehglish)
+#### https://youtu.be/WibxoqMSMCw?si=IifYinL8OFwcZ1iO 
+
 #### Binary search (English):
 #### https://youtu.be/GU7DpgHINWQ?si=kKjtWjTMixw21j6r
 
