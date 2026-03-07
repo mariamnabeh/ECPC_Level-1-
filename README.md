@@ -22,6 +22,12 @@
 #### https://youtu.be/9mh_tQdHAzI?si=tzgwbFQ9qhWkaKqF(Arabic)
 #### https://youtu.be/UdenHTX9sOg?si=0vT7FS5JKf3g31ZG
 
+#### Prefix Sum: (English)
+#### https://youtu.be/xbYr9JOC2Lk?si=2C-pwQfWFceMVWNZ
+#### refix Sum: (Arabic)
+#### Prefix Sum: (Arabic)
+#### https://www.youtube.com/live/hqOqr6vFPp8?si=3eB3bb-vM4UhMEzB
+
 #### Binary search (English):
 #### https://youtu.be/GU7DpgHINWQ?si=kKjtWjTMixw21j6r
 
