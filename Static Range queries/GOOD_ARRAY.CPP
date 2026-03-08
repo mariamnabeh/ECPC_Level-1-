@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <string>
 #include <vector>
+#include<map>
 #include <queue>
 #include <deque>
 #include <stack>
@@ -14,12 +15,32 @@ typedef long double ld;
 void solve()
 {
   //  Q) https://codeforces.com/problemset/problem/1077/C  
+ll n;
+    cin>>n;
+vector<ll>a(n);
+map<ll,int>freq;
+ll sum=0;
+for(int i=0; i<n;i++){
+    cin>>a[i];
+    sum+=a[i];
+    freq[a[i]]++;
+}
+vector<int> ans;
+for(int i = 0; i < n; i++){
 
-    int t;
-    cin >> t;
+    ll new_sum= sum-a[i];
+    if(new_sum%2==0){
 
-    while (t--) {
-ll n, x, div=0,k;
+        continue;
+        ll target = new_sum/2;
+        freq[a[i]]--;
+        if(freq[target>0]){
+
+
+            ans.push_back(i+1);
+            freq[a[i]]++;
+            
+        }
 
 
 
@@ -33,6 +54,7 @@ ll n, x, div=0,k;
 
           
     }
+}
 }
 
 
