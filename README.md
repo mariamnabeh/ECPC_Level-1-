@@ -18,9 +18,16 @@
 
 #### STLs (English):
 #### https://youtu.be/PZogbfU4X5E?si=XMy9m45DbyevF99T
-#### Prefix Sum & Suffix Sum 
-#### https://youtu.be/9mh_tQdHAzI?si=tzgwbFQ9qhWkaKqF(Arabic)
-#### https://youtu.be/UdenHTX9sOg?si=0vT7FS5JKf3g31ZG
+
+#### Prefix Sum: (English)
+#### https://youtu.be/xbYr9JOC2Lk?si=2C-pwQfWFceMVWNZ
+#### Prefix Sum: (Arabic)
+#### https://www.youtube.com/live/hqOqr6vFPp8?si=3eB3bb-vM4UhMEzB
+
+#### 2D-Prefix Sum:(Arabic)
+#### https://youtu.be/LFpNPc2Y9as 
+#### 2D-Prefix Sum: (Ehglish)
+#### https://youtu.be/WibxoqMSMCw?si=IifYinL8OFwcZ1iO 
 
 #### Binary search (English):
 #### https://youtu.be/GU7DpgHINWQ?si=kKjtWjTMixw21j6r
