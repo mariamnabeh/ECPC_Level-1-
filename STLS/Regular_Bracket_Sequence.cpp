@@ -54,11 +54,24 @@ void Remy() {
     stack<int> s;
     for (int i=0; i<=n.length(); i++){
        char c=n[i];
-       
+   if (c=='('){
+s.push(c);
+
+}
+else if (!s.empty())
+{
+    s.pop();
+    ans+=2;
+}
+
+}
+cout << ans;
+
+    
     
     }
 
-}
+
 
 int main() {
     ios::sync_with_stdio(false);
