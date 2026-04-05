@@ -51,8 +51,8 @@ void Remy() {
     string n;
     cin>> n;
     int ans=0;
-    stack<int> s;
-    for (int i=0; i<=n.length(); i++){
+    stack<char> s;
+    for (int i=0; i<n.length(); i++){
        char c=n[i];
    if (c=='('){
 s.push(c);
@@ -74,14 +74,9 @@ cout << ans;
 
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(NULL);
-
-    int t = 1;
-    cin >> t;
-    while (t--) {
+    
         Remy();
-    }
+    
 
     see_u_later;
 }
