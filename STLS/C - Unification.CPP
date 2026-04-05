@@ -6,6 +6,7 @@
 ♦ ========================= ♦
 */
 
+#define FIO ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -48,31 +49,25 @@ using vplc = vector<pair<long long,char> >;
 
 // ---------- Functions ----------
 void Remy() {
-string s;
-cin>>s;
-stack<char> check;
-int ans=0;
-for (int i=0; i<s.length(); i++){
-char c=s[i];
-if (c == '0') {
-    check.push(c);
-}
-else if(!check.empty() && c=='1'){
-  check.pop();  
-ans+=2;
-
+string c;
+cin >>c;
+int blue=0;
+int red=0;
+for (char i:c)
+if(i=='0'){
+red+=1;
 }
 
-}
-cout << ans << '\n';
 
+else if (i == '1') {
+    blue++;
+    }
 
-
-
+    cout << 2 * min(red, blue) << "\n";
 }
 
 int main() {
-  
+  FIO
         Remy();
     
     see_u_later;
