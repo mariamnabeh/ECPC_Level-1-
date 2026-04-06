@@ -47,7 +47,7 @@ using vpcl = vector<pair<char,long long> >;
 using vplc = vector<pair<long long,char> >;
 // ---------- Functions ----------
 void Remy() {
-nt n, m;
+int n, m;
     cin >> n >> m;
     vector<int> a(n);
     for(int i = 0; i < n; i++) cin >> a[i];
