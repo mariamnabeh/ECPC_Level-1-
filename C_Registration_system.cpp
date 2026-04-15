@@ -14,6 +14,7 @@
 #include <deque>
 #include <stack>
 #include <set>
+#include <map>
 
 using namespace std;
 
@@ -48,34 +49,29 @@ using vplc = vector<pair<long long,char> >;
 
 // ---------- Functions ----------
 void Remy() {
+    int n;
+    cin >> n;
 
+    map<string, int> mp;
 
+    while (n--) {
+        string name;
+        cin >> name;
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
+        if (mp[name] == 0) {
+            cout << "OK" << '\n';
+            mp[name] = 1;
+        } else {
+            cout << name + to_string(mp[name]) << '\n';
+            mp[name]++;
+        }
+    }
 }
-
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int t ;
-    cin >> t;
-    while (t--) {
-        Remy();
-    }
+    Remy();
 
-    see_u_later;
+    return 0;
 }
